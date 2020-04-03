@@ -85,3 +85,10 @@ const antiMatterRobot = {
     }
   ]
 };
+
+export const Fighters = [
+  cyberSamurai,
+  alienGunslinger,
+  underlingMech,
+  antiMatterRobot
+];
